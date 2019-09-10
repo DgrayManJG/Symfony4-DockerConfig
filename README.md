@@ -1,6 +1,6 @@
 # Symfony4 avec config Docker
 
-Pour utiliser le projet sur git  
+Pour utiliser le projet sur git
 > git clone https://github.com/DgrayManJG/Symfony4-DockerConfig.git
 
 Configurer le fichier docker-compose.yml à votre convenance.
@@ -30,5 +30,5 @@ ou
 > yarn encore dev
 
 Vous pouvez maintenant vous rendre sur l'adresse avec le port que vous avez renseigner.
-Par défaut 
+Par défaut .
 A [localhost:81](http://localhost:150")
