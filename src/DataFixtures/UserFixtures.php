@@ -20,10 +20,10 @@ class UserFixtures extends Fixture
     {
         $user = new User();
 
-        $user->setEmail('jimmy.guevel@groupe-isb.fr');
+        $user->setEmail('admin@admin.fr');
         $user->setPassword($this->passwordEncoder->encodePassword(
                             $user,
-                            'Oasisisgood9'
+                            'motdepasse'
                         ));
 
         $manager->persist($user);
