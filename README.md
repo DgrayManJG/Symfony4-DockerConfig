@@ -10,25 +10,25 @@ Pour lancer docker :
 > docker-compose up -d
 
 pour l'arreter : 
-- docker-compose stop
+> docker-compose stop
 
 pour supprimer : 
-- docker-compose rm
+> docker-compose rm
 
 ensuite il faut mettre à jours le projet avec composer
-- composer install
+> composer install
 
 et il faut lancer le webpack pour les assets avec Yarn
 
 pour installer Yarn
-- Yarn
+> Yarn
 
 Pour lancer le service webpack :
-- yarn encore dev --watch
+> yarn encore dev --watch
 
 ou 
-- yarn encore dev
+> yarn encore dev
 
 Vous pouvez maintenant vous rendre sur l'adresse avec le port que vous avez renseigner
 Par défaut 
-- localhost:150
+A [localhost:150](http://localhost:150")
