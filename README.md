@@ -7,7 +7,7 @@ Configurer le fichier docker-compose.yml à votre convenance.
 Le plus souvent on va vouloir changer le container_name ainsi que le port.
 
 Pour lancer docker :
-- docker-compose up -d
+> docker-compose up -d
 
 pour l'arreter : 
 - docker-compose stop
