@@ -1,4 +1,4 @@
-# Symfony4-DockerConfig
+# Symfony4 avec config Docker
 
 Pour utiliser le projet sur git 
 Faire git clone https://github.com/DgrayManJG/Symfony4-DockerConfig.git
