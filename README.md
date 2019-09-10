@@ -1,7 +1,7 @@
 # Symfony4 avec config Docker
 
-Pour utiliser le projet sur git 
-Faire git clone https://github.com/DgrayManJG/Symfony4-DockerConfig.git
+Pour utiliser le projet sur git  
+> git clone https://github.com/DgrayManJG/Symfony4-DockerConfig.git
 
 Configurer le fichier docker-compose.yml à votre convenance.
 Le plus souvent on va vouloir changer le container_name ainsi que le port.
